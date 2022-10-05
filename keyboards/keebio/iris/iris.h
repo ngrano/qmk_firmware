@@ -20,6 +20,8 @@
     #include "rev6b.h"
 #elif defined(KEYBOARD_keebio_iris_rev7)
     #include "rev7.h"
+#elif defined(KEYBOARD_keebio_iris_handwire)
+    #include "handwire.h"
 #endif
 
 #include "quantum.h"
