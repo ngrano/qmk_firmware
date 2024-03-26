@@ -51,7 +51,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //├────────┼────────┼────────┼────────┼────────┼────────┤                          ├────────┼────────┼────────┼────────┼────────┼────────┤
      RGB_MOD, KC_MPRV, KC_MNXT, KC_VOLU, KC_PGUP, FI_UNDS,                            FI_EQL,  KC_HOME, RGB_HUI, RGB_SAI, FI_LBRC, FI_RBRC,
   //├────────┼────────┼────────┼────────┼────────┼────────┼────────┐        ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┤
-     KC_MUTE, KC_MSTP, KC_MPLY, KC_VOLD, KC_PGDN, FI_MINS, KC_LPRN,          _______, FI_PLUS, KC_END,  FI_SCLN, FI_COLN, FI_LABK, FI_RABK,
+     KC_MUTE, KC_MSTP, KC_MPLY, KC_VOLD, KC_PGDN, FI_MINS, KC_LPRN,          _______, FI_PLUS, KC_END,  FI_SCLN, FI_COLN, FI_BSLS, FI_RABK,
   //└────────┴────────┴────────┴───┬────┴───┬────┴───┬────┴───┬────┘        └───┬────┴───┬────┴───┬────┴───┬────┴────────┴────────┴────────┘
                                     _______, _______, _______,                   _______, _______, _______
                                 // └────────┴────────┴────────┘                 └────────┴────────┴────────┘
